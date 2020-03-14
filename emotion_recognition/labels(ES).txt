@@ -1,0 +1,8 @@
+enojo
+desprecio
+disgusto
+temor
+alegre
+triste
+asombro
+neutro
