@@ -4,5 +4,5 @@ in this example you will be able to train a model to detect facial expressions, 
 
 to use any of those options just open a console in a directory and write "python3 example.py"
 
--make sure you install pytorch and opencv
+-make sure you install pytorch, pillow and opencv
 -unzip the dataset before to start
